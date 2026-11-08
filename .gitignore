@@ -4,3 +4,7 @@ docs/superpowers/
 .swiftpm/
 xcuserdata/
 .DS_Store
+supabase/.temp/
+supabase/.branches/
+supabase/.env
+supabase/.env.local
