@@ -1,2 +1,6 @@
 # Planning docs (spec dan plan): local only, tidak di-push
 docs/superpowers/
+.build/
+.swiftpm/
+xcuserdata/
+.DS_Store
